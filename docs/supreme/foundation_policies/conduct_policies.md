@@ -29,7 +29,7 @@ Members of the Foundation must act in good behavior, they must treat eachother w
      - Personnel may enter the Dark Matter Reactor's observation area at their own volition however are required to leave if asked to.
      - You are to present your keycard if asked to identify yourself by one of the attack drones roaming the area in or around Site Alpha.
  5. Installation Command is off-limits to personnel who hold Security Class 0. In addition to this, all personnel who hold a clearance lower than Security Class 3 are restricted from entering the area while raid negotiations are conducted unless they are participating in or hosting such an event. Spectators may bypass this regulations, however must be granted permission to spectate by the individual hosting such negotiations.
- 6. Personnel must remain within Site Phi while protocol Uproar, Red Heron, Purple Reign, Oxygen Depletion, or Blacklist is in effect.
+ 6. Personnel must remain within Site Phi while protocol Uproar, Red Heron, Purple Reign, Oxygen Depletion, or Blackout is in effect.
 
 ## Access 4 - Loitering
 No individual may loiter near any restricted area in which the individual does not have access to. This includes Site Epsilon and the Clean Room. Combatives guarding said area may issue 2 warnings to disperse, after such, termination is authorized.
