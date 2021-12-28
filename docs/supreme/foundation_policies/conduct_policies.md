@@ -29,7 +29,7 @@ Members of the Foundation must act in good behavior, they must treat eachother w
      - Personnel may enter the Dark Matter Reactor's observation area at their own volition however are required to leave if asked to.
      - You are to present your keycard if asked to identify yourself by one of the attack drones roaming the area in or around Site Alpha.
  5. Installation Command is off-limits to personnel who hold Security Class 0. In addition to this, all personnel who hold a clearance lower than Security Class 3 are restricted from entering the area while raid negotiations are conducted unless they are participating in or hosting such an event. Spectators may bypass this regulations, however must be granted permission to spectate by the individual hosting such negotiations.
- 6. Personnel must remain within Site Phi while protocol Uproar, Red Heron, Purple Reign, Oxygen Depletion, or Blacklist is in effect.
+ 6. Personnel must remain within Site Phi while protocol Uproar, Red Heron, Purple Reign, Oxygen Depletion, or Blackout is in effect.
 
 ## Access 4 - Loitering
 No individual may loiter near any restricted area in which the individual does not have access to. This includes Site Epsilon and the Clean Room. Combatives guarding said area may issue 2 warnings to disperse, after such, termination is authorized.
@@ -81,6 +81,7 @@ No individual may loiter near any restricted area in which the individual does n
  2. Members of the Foundation are given access to the radio to utilize during their on-site duties. Misuse of this radio can result in disciplinary actions as well as the abuser being muted from the radio.
  3. Personnel are prohibited from dropping their keycard. Picking up another individual's keycard will be considered obstruction of duties. If you accidentaly pick up another keycard, you are to respawn in order to ensure that the card has been disposed of. Deciding to utilise a keycard that is not belonging to you or refusing to dispose of one is grounds for punishment.
  4. Upon redesignation of an indivudal's security clearance, they are obliged to print a replacement keycard and dispose of their orignial one.
+ 5. Personnel may not body armour stands unless they hold Security Class 3+ or are entitled to Foundation Investor privileges. Combative and intelligence personnel may also utilise such stands if it aids them in their duties.
 
 ## Article 11 - Obstruction
 1. Personnel may not obstruct the duties of others. This includes, but is not limited to: intentionally closing & opening doors on personnel attempting to enforce regulations or carry out a departmental duty such as terminating Class-D, aiding and abetting Class D, staying within Site Omicron during protocol Uproar.

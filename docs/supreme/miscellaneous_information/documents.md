@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Documents
 ---
 
-### Doccuments
+### Documents
 - [Anomaly Interaction Manual](https://drive.google.com/drive/folders/1diIvRtm9924n42hJHzVuj60ILSpp3Fh8?usp=sharing)
 - [Foundation Investor Guidelines](https://docs.google.com/document/d/1rpSwAKatnVVctOjBs2-YWlnV9KIOW4zpCXfaSXnXR1w)
 - [Universal Hostage Regulations](https://docs.google.com/document/d/1YCqalO9oKiLLo4120kiJqFB3SFPMUA6cd2AXHrp3GSM)
