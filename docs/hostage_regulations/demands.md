@@ -15,16 +15,29 @@ style={{
 </span>
 );
 
-| Rank | Requestable Demands | Explanation/Restrictions |
-| ----------------- | ------------------- | ------------------------ |
-| <Highlight color="#cccccc">**Security Class 0**</Highlight> | Food Items. | Pizza, soda, etc. |
-| <Highlight color="#f1c232">**Security Class 2**</Highlight> | Jeep Wrangler. | A maximum of **two** Jeep Wranglers may be requested. |
-| <Highlight color="#0084ff">**Security Class 3**</Highlight> | Low-risk anomalies, unarmed Humvee. | A maximum of **one** Humvee may be requested. |
-| <Highlight color="#e13238">**Security Class 4**</Highlight> | Moderate-risk anomalies, armed humvees. |A maximum of **one** armed Humvee or **two** unarmed Humvees may be requested. |
-| <Highlight color="#e13238">**Installation Director**</Highlight> | Weapons, access to the Clean Room. | Admin commands cannot be used for this. |
-| <Highlight color="#e13238">**O5 Council**</Highlight> | Anything. | At the discretion of the O5 Councillor. |
+## Points
 
-- Two Security Class 1 personnel hold the same value as one Security Class 2.
-- Five Security Class 1 personnel, or four Security Class 2 personnel hold the same value as one Security Class 3.
-- Six Security Class 2 personnel, or two Security Class 3 personnel hold the same value as one Security Class 4.
-- Two Security Class 4 personnel, or four Security Class 3 personnel hold the same value as an Installation Director.
+To be able to utilize your hostages you must first have a certain number of points, each clearance level has a different number of points. Below is a table of what each clearance level is worth in terms of these points.
+
+| Clearance | Points |
+| ----------------- | ------------------------ |
+| <Highlight color="#cccccc">**Security Class 0**</Highlight> | +1 |
+| <Highlight color="#ffff00">**Security Class 1**</Highlight> | +2 |
+| <Highlight color="#f1c232">**Security Class 2**</Highlight> | +4 |
+| <Highlight color="#0084ff">**Security Class 3**</Highlight> | +16 |
+| <Highlight color="#e13238">**Security Class 4**</Highlight> | +32 |
+| <Highlight color="#e13238">**Installation Director**</Highlight> | +70 |
+| <Highlight color="#e13238">**O5 Council**</Highlight> | +100 |
+
+## Acceptable Demands
+
+After you have taken some hostages you can request for a demand given in the table below. Each amount of points can be redeemed for anything below or at the amount of points you have, to elaborate on this if you were to have 2 SC-4’s you’d have 64 points which would allow you to request for anything that’s between 50-89 points such as a Keter Class anomaly.
+
+| Points | Requestable Demands | Explanation/Restrictions |
+| ----------------- | ------------------- | ------------------------ |
+| 0-5 | Food items | N/A |
+| 6-10 | Vehicles (Unarmoured) | N/A |
+| 11-29 | Safe Class Anomalies<br/>Unarmed Humvees<br/>Free Roam | Anything that is a Safe Class SCP<br/>Free roam for 10 minutes |
+| 30-49 | Euclid Class Anomalies<br/>Armed Humvees<br/>Free Roam | Anything that is a Euclid Class SCP<br/>Any form of vehicle<br/>Free roam for 30 minutes |
+| 90-99 | Alpha Class SCP’s<br/> | Anything that is an Alpha Class SCP |
+| 100+ | Anything, at O5 discretion | N/A |
