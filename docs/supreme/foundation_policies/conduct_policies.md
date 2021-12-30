@@ -81,7 +81,6 @@ No individual may loiter near any restricted area in which the individual does n
  2. Members of the Foundation are given access to the radio to utilize during their on-site duties. Misuse of this radio can result in disciplinary actions as well as the abuser being muted from the radio.
  3. Personnel are prohibited from dropping their keycard. Picking up another individual's keycard will be considered obstruction of duties. If you accidentaly pick up another keycard, you are to respawn in order to ensure that the card has been disposed of. Deciding to utilise a keycard that is not belonging to you or refusing to dispose of one is grounds for punishment.
  4. Upon redesignation of an indivudal's security clearance, they are obliged to print a replacement keycard and dispose of their orignial one.
- 5. Personnel may not body armour stands unless they hold Security Class 3+ or are entitled to Foundation Investor privileges. Combative and intelligence personnel may also utilise such stands if it aids them in their duties.
 
 ## Article 11 - Obstruction
 1. Personnel may not obstruct the duties of others. This includes, but is not limited to: intentionally closing & opening doors on personnel attempting to enforce regulations or carry out a departmental duty such as terminating Class-D, aiding and abetting Class D, staying within Site Omicron during protocol Uproar.
