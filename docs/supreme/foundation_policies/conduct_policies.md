@@ -60,6 +60,7 @@ No individual may loiter near any restricted area in which the individual does n
  1. Members of the Foundation, regardless of rank or department, are to treat each SCP with respect. Angering any SCP is not allowed and is subject to punishment.
  2. Personnel may not interact with any inanimate SCPs unless authorized to do so.
  3. Interaction with any storage box located within the Clean Room for any reason unless in the Security Department or Mobile Task Forces is strictly prohibited.
+ 4. Attempting to breach an SCP is subject to punishment.
  
  :::note
  For information regarding the treatment of and interaction with SCPs, you should click [here.](https://docs.google.com/document/d/1_VriOagb-E38gn2jdiDFnltxZpRV1yklfWDW0Jdw-CQ)
