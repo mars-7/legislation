@@ -21,7 +21,7 @@ The Office of the Administrator retains the right to issue executive orders. Exe
 - [Executive Order #18](https://docs.google.com/document/d/1OMmfdcr9AKqyWZhmMvvTqdnUmU0KYmjsI6WPZmKGDiI)
 
 ## Article 2 - Accounts
- 1. Any alternative accounts brought into the Foundation or Discord are to be registered with the Department of Internal Affairs. In order to register an alternative account on ROBLOX, you must run ``/registeralt UserID`` with Helix. To register an alternative account on Discord, you should contacted a member of the department.
+ 1. Alternative accounts are prohibited from attaining or holding a foundation security clearances. Violation of this policy will result in the removal of the alternate account and disciplinary action on the main account at the discretion of the Department of Internal Affairs.
  2. Any individual who wishes to transfer information from one account to another may do so but must have been in the Foundation for no more than 3 weeks and hold Security Class 1 or above. You should contact a Security Class-4 or higher to have your accounts transferred.
 
 ## Article 3 - Applications
