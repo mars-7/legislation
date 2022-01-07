@@ -18,7 +18,6 @@ All policies hereinafter are to be considered supreme and hold precedence over a
     - Let hostile be defined as any individual utilizing a weapon or knife to invoke fear or harm upon other individuals with the threat of death. This includes aiming or shooting at any individual.
  2. Non-combatives may use their weapons during any hostage situation, however, each hostage situation should be treated as a real-life scenario. If you believe you cannot do something in real life and that it would kill you, then you may not do it. 
  3. Personnel may not utilize their weapons against any Security Class 4 or higher for any reason.
- 4. Should you ever have to use your weapon in an act of self-defense against any member of the Foundation, you are required to submit evidence of such to the Ethics Committee.
 
 ## Article 3 - Engaging SCPs
  1. Personnel are not allowed to use firearms against any SCP, no matter the reason or department. 
