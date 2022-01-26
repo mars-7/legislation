@@ -10,4 +10,5 @@ This section contains all public departmental guidelines for the foundation. Ple
 - [Security Guidelines](departments/security_department/intro)
 - [Medical Guidelines](departments/medical_department/intro)
 - [Logistics Guidelines](departments/logistics_department/intro)
+- [Engineering & Technical Guidelines](departments/ents_department/intro)
 - [Mobile Task Forces Guidelines](departments/mtf_department/intro)
