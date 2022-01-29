@@ -57,9 +57,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           {
             type: 'doc',
-            docId: 'criminal_code/intro',
+            docId: 'foundation_code/intro',
             position: 'left',
-            label: 'Criminal Code',
+            label: 'Foundation Code',
           },
           {
             href: 'https://www.roblox.com/groups/4606577',
