@@ -4,8 +4,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'legislation.scpf.io',
-  tagline: 'This site contains all legislation for Daxrentha\'s SCPF',
+  title: 'Daxrentha\'s SCPF documentation',
+  tagline: 'This site contains all public documentation for Daxrentha\'s SCPF',
   url: 'https://legislation.scpf.io',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -25,6 +25,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           editUrl: 'https://github.com/SCPF-Judicial/legislation/edit/dev/',
           routeBasePath: '/'
         },
+        blog: {
+          path: 'blog',
+          editUrl: ({locale, blogDirPath, blogPath}) => {
+            return `https://github.com/SCPF-judicial/legislation/edit/master/${blogDirPath}/${blogPath}`;
+          },
+          postsPerPage: 5,
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Daxrentha's Special Containment Procedures Foundation`,
+          },
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'All our posts',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -35,17 +48,23 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      defaultMode: 'dark',
+      metadatas: [
+        { property: 'og:image', content: 'https://legislation.scpf.io/img/scpf.png' },
+      ],
+      colorMode: {
+        defaultMode: 'dark',
+        respectPrefersColorScheme: true
+      },
       navbar: {
         title: 'SCPF',
         logo: {
-          alt: 'SCPF Judicial Logo',
-          src: 'img/judicial.png',
+          alt: 'SCPF Logo',
+          src: 'img/scpf.png',
         },
         items: [
           {
             type: 'doc',
-            docId: 'supreme/intro',
+            docId: 'supreme/introduction',
             position: 'left',
             label: 'Supreme Guidelines',
           },
@@ -55,12 +74,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
             label: 'Departmental Guidelines',
           },
-          {
+          {to: 'blog', label: 'Blog', position: 'left'},
+          /* {
             type: 'doc',
             docId: 'foundation_code/intro',
             position: 'left',
             label: 'Foundation Code',
-          },
+          }, */
           {
             href: 'https://www.roblox.com/groups/4606577',
             label: 'Group',
