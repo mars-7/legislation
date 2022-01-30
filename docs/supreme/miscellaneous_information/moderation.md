@@ -3,15 +3,20 @@ sidebar_position: 1
 title: Moderation
 ---
 
-The following gives the reader a rough idea on punishments issued for committing certain violations. Please note that they are only are point of guidance and sentences may be made longer or shorter at the discretion of the individual issuing the punishment.
+The following is the list of bannable offences within our games. This list is not exhaustive. Overwatch comamnd reserves the right to impose reasonable punishments where neccessary.
 
-| Violation | Information | Punishment |
-| --------- | ----------- | ---------- |
-| Spawn Killing | When a user purposely tries to kill personnel in close proximity to their spawn location.  | 1 day. |
-| Evasion | When a user purposefully tries to evade being Solitary Confined, whether that be leaving the game before being SCed, glitching, exploiting, or what the combative sees fit as evading. | 3 days.
-| Suspensions | When a user breaks our regulations and guidelines set in game and attempts to evade punishment. | 6 days. |
-| Glitching | When a user purposefully abuses a broken game mechanic for their own benefit. | 3 days. |
+| Violation        | Information                                                                                                                                                                             | First Offence | Second Offence | Third Offence | Fourth Offence | Fifth Offence |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|----------------|---------------|----------------|---------------|
+| Spawn Killing    | When a user purposely attempts to kill another user in close proximity of their spawn location, shortly after the targeted user spawns in.                                              | 1 day         | 3 days         | 7 days        | 14 days        | Permanent     |
+| Solitary Evasion | When a user purposefully tries to evade being placed in Solitary Confinement (includes, but is not limited to: leaving the game before being confined, glitching to avoid confinement). | 3 days        | 7 days         | 14 days       | Permanent      | -             |
+| Glitching        | When a user purposefully abuses a broken game mechanic (defined at the discretion of the Manufacturing Department Core Team) for their own benefit.                                     | 3 days        | 7 days         | 14 days       | Permanent      | -             |
+| Rogue            | When a user breaks our regulations and guidelines set in game.                                                                                        | 3 days         | -              | -             | -              | -             |
 ---
+
+:::caution
+Accumulating 5 total offences combined in `Spawn Killing`, `Solitary Evasion` & `Glitching` will result in a permanent ban.
+:::
+
 :::info
-The Offical of The Administrator and its Executive Assistants are responsible for dealing with ban appeals. If you think that you were wrongfully banned, there is an appeal procedure which can be found [here](https://docs.google.com/document/d/1bHvPcI1jixDXSfQalMbg80WYXWqoE25Ks-D76symQf4).
+If you think that you were wrongfully banned, please follow the `#how_to_appeal` **Game Punishments** section in [Appeal Services](https://docs.google.com/document/d/1bHvPcI1jixDXSfQalMbg80WYXWqoE25Ks-D76symQf4).
 :::

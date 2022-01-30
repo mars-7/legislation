@@ -19,6 +19,7 @@ The Office of the Administrator retains the right to issue executive orders. Exe
 - [Executive Order #16](https://docs.google.com/document/d/1b7V14h_D_1hs-PCA-9Qxxz_ADgkYr8p84_li3RlRCC8)
 - [Executive Order #17](https://docs.google.com/document/d/1RnS9JZr986GKvsZPQ2fh4fZPASDwgns1tA4p7ndbIzs)
 - [Executive Order #18](https://docs.google.com/document/d/1OMmfdcr9AKqyWZhmMvvTqdnUmU0KYmjsI6WPZmKGDiI)
+- [Executive Order #19](https://docs.google.com/document/d/13u6N89l5mHK4ZAqUOwr5KzJiRB9D3Io3zaxhAHch5mI/edit?usp=sharing)
 
 ## Article 2 - Accounts
  1. Alternative accounts are prohibited from attaining or holding a foundation security clearance. Violation of this policy will result in the removal of the alternate account and disciplinary action on the main account at the discretion of the Department of Internal Affairs.
