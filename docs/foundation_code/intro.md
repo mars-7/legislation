@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Foundation Code
-slug: /departments
+slug: /foundation_code
 id: intro
 ---
 
