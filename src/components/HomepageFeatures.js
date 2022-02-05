@@ -6,6 +6,7 @@ const FeatureList = [
   {
     title: 'Supreme Guidelines',
     img: '/img/scpf.png',
+    href: '/supreme/introduction',
     description: (
       <>
         View the Foundation's Supreme Guidelines.
@@ -15,6 +16,7 @@ const FeatureList = [
   {
     title: 'Departmental Guidelines',
     img: '/img/department.png',
+    href: '/departments',
     description: (
       <>
         All public departmental guidelines are available to view here.
@@ -22,21 +24,22 @@ const FeatureList = [
     ),
   },
   {
-    title: <>Criminal Code <span class="badge badge--info">Coming soon</span></>,
+    title: <>Foundation Code <span class="badge badge--info">New</span></>,
     img: '/img/judicial.png',
+    href: '/foundation_code',
     description: (
       <>
-        View the Foundation's Criminal Code.
+        View the Foundation's Legal Code.
       </>
     ),
   },
 ];
 
-function Feature({img, title, description}) {
+function Feature({img, href, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center" >
-      <img src={img} alt={title} className={styles.featureSvg} />
+      <a href={href}><img src={img} alt={title} className={styles.featureSvg} /></a>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

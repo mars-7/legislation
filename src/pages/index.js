@@ -14,13 +14,6 @@ function HomepageHeader() {
         <div className="container">
           <h1 className="homepage-title">legislation.scpf.io</h1>
           <p className="homepage-subtitle">{siteConfig.tagline}</p>
-          <div className={styles.buttons}>
-            <Link
-              className="button button--secondary button--lg"
-              to="/departments">
-              Departmental Guidelines
-            </Link>
-          </div>
         </div>
       </header>
   );
