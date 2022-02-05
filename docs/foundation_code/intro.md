@@ -5,6 +5,12 @@ slug: /foundation_code
 id: intro
 ---
 
+<head>
+  <meta content="Daxrentha's SCPF" property="og:site_name">
+  <meta content="Foundation Code">
+ <meta content="The Official Foundation Legal Code for Daxrentha's Special Containment Procedures Foundation" property="og:description">
+</head>
+
 The Preamble is a document explaining the purpose of the Foundation Legal Code, its subordinated codes, ordinances, articles, mandates, directives, guidelines and enforced handbooks that are held under the providence of the Foundation Legal Code; it may not be nullified without the written authority of the Overseer Council.
 
 :::info
