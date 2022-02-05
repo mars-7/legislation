@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 title: 1 F.C. § 1 - Homicide
 slug: /criminal_articles
 id: article_one
