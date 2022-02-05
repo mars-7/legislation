@@ -2,7 +2,6 @@
 sidebar_position: 1
 title: 1 F.C. § 1 - Homicide
 slug: /criminal_articles
-id: article_one
 ---
 
  1. Homicide is the act of ending the life of any member of the species homo sapiens to a point where they are rendered into a state so critical that the administration of medical aid is not possible and henceforth the subject will or has died.
