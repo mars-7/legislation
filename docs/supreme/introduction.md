@@ -11,6 +11,6 @@ If you hold a Security Class, it is mandatory that you acknowledge the stricture
 
 ---
 
-:::caution
-This document will be updated periodically to be kept up-to-date with new information regarding the Foundation, it is managed by the Ethics Committee's Central Command and Foundation's Overwatch Command.
+:::info
+The Supreme Guidelines is considered guidance to the Foundation's Policy and Legal Code. It is not considered law and is not enforceable in of itself. Please see the [Foundation Legal Code](/foundation_code).
 :::
