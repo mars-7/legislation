@@ -3,6 +3,7 @@ sidebar_position: 2
 title: 5 F.C. § 2 - Site Omicron
 ---
 
+<ol type="1">
 -1. Site Omicron is the Inmate Housing and Activities centre for SCI PATHOS III.
 
 -2. Site Omicrons boundary shall be defined as the following areas;
@@ -82,9 +83,28 @@ title: 5 F.C. § 2 - Site Omicron
 -iii. Mobile Task Force Operatives
 -iv. Intelligence Officers
 -v. Command Staff
--vi. 
+-vi. Administrative Department staff, including Investors
 -g. The Class E Cellblock is restricted to;
 -i. Judiciary Authority on Official Business
 -ii. Intelligence Officers
 -iii. Mobile Task Forces
 -iv. Approved Military Policemen 
+
+-5. Class D are forbidden from passing the Guardline or exiting the CDCZ by any other route unless;
+-a. They have been authorized to participate in an official event
+-b. They have been disarmed by security staff
+
+-6. The Visitation Area has specialist mandates, namely;
+-a. The Visitation Area boundary is defined as the access door in Lower Observation and the access door at the Guardline
+-b. The Visitation Area is a firearm freezone;
+-i. Failiure to relinquish a firearm to the attending officer subjects personnel to prosecution under 1 F.C. § 13
+-ii. Class D who fail to declare possession of a firearm are subject to termination and one strike
+-iii. Attending Officers who fail to relinquish personnel of their firearms are subject to prosecution under 1 F.C. § 21.
+-iv. If a flaw in game mechanics prevents this from occuring, the individual can not be prosecuted under 5 F.C. § 2(6)(b)(iii)
+-v. Combatives, Intelligence Officers and Senior Developers or above may bear arms in the Visitation Area
+-c. Visitation may only occur on the basis of official business, namely;
+-i. Surveys or Statement Collection by the Ethics Committee
+-ii. Surveys or Recruitment by the Department of Diplomatic Affairs
+-iii. Surveys by the Internal Review Service
+-iv. Surveys by the Office of the Administrator
+-v. Admissions advice by Admissions Officer, if approved by a Councillor or the Director of Admissions
