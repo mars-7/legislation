@@ -54,6 +54,8 @@ title: 1 F.C. § 3 - Assault
 				<li>no more than fourteen (14) days of  confinement as Class-E</li>
 				<li>a prevention in their progression in terms of their security clearance</li>
 				<li>a removal from their existant posting and re-placement to a less sensitive position</li>
+        <li> Assault with a Deadly Weapon ("AWADW") involves the pre-requisite but with the employment of a weapon capable of immediately ending life, namely a firearm
+            <li> Individuals are subject to an additional 7 days confinement as a Class D, alongside the confinement length of the standardized assault articles
 			</ul>
 		</ol>
 	</ol>
