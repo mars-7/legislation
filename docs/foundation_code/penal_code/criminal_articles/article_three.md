@@ -42,7 +42,7 @@ title: 1 F.C. § 3 - Assault
 				</ul>	
 				<li>on the second offence:</li>
 				<ul>
-					<li>or, a departmental suspension not exceeding eight (8) days</li>
+					<li>a departmental suspension not exceeding eight (8) days</li>
 				</ul>	
 				<li>on the third offence:</li>
 				<ul>
