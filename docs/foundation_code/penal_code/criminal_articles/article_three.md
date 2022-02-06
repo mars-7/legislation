@@ -33,7 +33,7 @@ title: 1 F.C. § 3 - Assault
 		</ol>
 		<li>Assault on a subject by a guard or operative</li>
 		<ol type="i">
-			<li>a person who violates this subject to any of the following as per the directive of the Ethics Committee and departmental superiors:</li>
+			<li>a person who violates this with malice subject to any of the following as per the directive of the Ethics Committee and departmental superiors:</li>
 			<ul>
 				<li>on the first offence:</li>
 				<ul>
