@@ -35,8 +35,24 @@ title: 1 F.C. § 3 - Assault
 		<ol type="i">
 			<li>a person who violates this subject to any of the following as per the directive of the Ethics Committee and departmental superiors:</li>
 			<ul>
-				<li>a formal warning</li>
-				<li>a departmental suspension not exceeding four (4) days</li>
+				<li>on the first offence:</li>
+				<ul>
+					<li>a formal warning</li>
+					<li>or, a departmental suspension not exceeding four (4) days</li>
+				</ul>	
+				<li>on the second offence:</li>
+				<ul>
+					<li>or, a departmental suspension not exceeding eight (8) days</li>
+				</ul>	
+				<li>on the third offence:</li>
+				<ul>
+					<li>a demotion within the department</li>
+					<li>or, no more than seven (7) days of Class-E confinement</li>
+				</ul>	
+				<li>on the fourth offence:</li>
+				<ul>
+					<li>a tempoary blacklist from the department</li>
+				</ul>	
 			</ul>
 		</ol>
 		<li>Assault on a person of importance</li>
