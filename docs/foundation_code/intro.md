@@ -85,3 +85,4 @@ It is a prima facie that the FLC is a complex collection of articles and documen
 32. "Subjects" or "Class D" are personnel held for testing in fixed installations or at mobile testing posts.
 > * A "rioter" is a subject who has engaged in acts of subversion against the Foundation.
 33. A "rogue" is an individual in the Foundation with a security clearance who has engaged in act of subversion.
+34. "Malice" is an act which held pre-meditation and a will to cause ill-state to a subject, as opposed to being a product of emotional discontent
