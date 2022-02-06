@@ -47,5 +47,5 @@ title: 5 F.C. § 3 - Site Epsilon
 -d. An Class D who fails to declare a firearm at a security station is subject to termination and marking for confinement
 
 -6. Any individual who tresspasses within Site Epsilon may be terminated and prosecuted under 1 F.C.§ 6
--7. Any individual who enters a containment zone without authorization may be terminated and prosecuted under 1 F.C. § 7
+-7. Any individual who enters a containment zone without authorization may be terminated and prosecuted under 1 F.C. § 7(c)
 -8. Any individual who loiters in the immediate vicinity of Site Epsilon and who fails to disperse after a clear verbal warning may be charged under 1 F.C. § 8

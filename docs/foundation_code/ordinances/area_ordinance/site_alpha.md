@@ -54,6 +54,10 @@ title: 5 F.C. § 4 - Site Alpha
 
 -7. Igniting the reactor core while maintenance is ongoing, meaning personnel are present in the reaction hall, is guilty of 1 F.C. § 2, or if no life is lost, 1 F.C. § 21
 
--8. Any individual who, by their own action or negligence, allows the Dark Matter Reactor to have a radiation leak or enter a highly unstable fate which affects the health of living organisms in the installation, is guilty of 1 F.C. § 19, however if no malice is found will be charged with 1 F.C. § 7
+-8. Any individual who, by their own action or negligence, allows the Dark Matter Reactor to have a radiation leak or enter a highly unstable fate which affects the health of living organisms in the installation, is guilty of 1 F.C. § 19, however if no malice is found will be charged with 1 F.C. § 21
 
 -9. Any individual who obstructs efforts to maintain or upkeep the dark matter reactor is to be charged with 1 F.C. § 19
+
+-10. Any individual who tresspasses in an observation area of Site Alpha without clearance or during an emergency shall be charged under 1 F.C. § 7(a)
+
+-11. Any individual who tresspasses in a maintenance area of Site Alpha without clearance shall be charged under 1 F.C. § 7(b)

@@ -18,6 +18,6 @@ title: 5 F.C. § 7 - Outlands
 -c. Mobile Task Forces
 -d. Scientific Personnel on approved Expeditions
 
--4. Any individual who enters a terrain tunnel or the hostile forces spawn shall be terminated and charged under 1 F.C. § 7 
+-4. Any individual who enters a terrain tunnel or the hostile forces spawn shall be terminated and charged under 1 F.C. § 7(b)
 
 -5. Any individual who willfully enters the SCP-106 pocket dimension shall be charged under 1 F.C. § 17
