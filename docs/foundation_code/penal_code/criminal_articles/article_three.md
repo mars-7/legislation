@@ -16,8 +16,29 @@ title: 1 F.C. § 3 - Assault
 			</ul>
 		</ol>
 		<li>Assault on a guard or operative</li>
+		<ol type="i">
+			<li>a person who violates this subject to any of the following as per the directive of the Ethics Committee:</li>
+			<ul>
+				<li>no more than ten (10) days of confinement as Class-E</li>
+				<li>a removal from their existant posting and re-placement to a less sensitive position</li>
+			</ul>
+		</ol>
 		<li>Assault on an intelligence officer or judiciary official</li>
+		<ol type="i">
+			<li>a person who violates this subject to any of the following as per the directive of the Ethics Committee:</li>
+			<ul>
+				<li>no more than ten (10) days of confinement as Class-E</li>
+				<li>a removal from their existant posting and re-placement to a less sensitive position</li>
+			</ul>
+		</ol>
 		<li>Assault on a subject by a guard or operative</li>
+		<ol type="i">
+			<li>a person who violates this subject to any of the following as per the directive of the Ethics Committee and departmental superiors:</li>
+			<ul>
+				<li>a formal warning</li>
+				<li>a departmental suspension not exceeding five (5) days</li>
+			</ul>
+		</ol>
 		<li>Assault on a person of importance</li>
 		<ol type="i">
 			<li>"person of importance" is defined as an assault on any of the following:</li>
