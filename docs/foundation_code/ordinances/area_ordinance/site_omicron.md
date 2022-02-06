@@ -3,7 +3,6 @@ sidebar_position: 2
 title: 5 F.C. § 2 - Site Omicron
 ---
 
-<ol type="1">
 -1. Site Omicron is the Inmate Housing and Activities centre for SCI PATHOS III.
 
 -2. Site Omicrons boundary shall be defined as the following areas;
