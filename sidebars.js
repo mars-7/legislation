@@ -153,10 +153,10 @@ module.exports = {
       }
     ],
   },],
-  criminalCode: [
+  foundationCode: [
     {
       type: 'category',
-      label: 'Criminal Code',
+      label: 'Foundation Legal Code',
       collapsible: false,
       collapsed: false,
       items: [{
