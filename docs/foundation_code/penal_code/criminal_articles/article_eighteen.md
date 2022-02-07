@@ -15,5 +15,6 @@ title: 1 F.C. § 18 - Contempt of an Official Forum
 		<li>Evade and fail to appear in an official forum despite clear summons when the subjects avaliabliaty is a *prima facie*; 1 F.C. § 18a</li>
 	</ol>
 	<li>Contempt is not defined by varying degrees however the upper limit as to what charges can be levied against an individual by an authorized member in the judicial or legislative process may vary as the nature of the crime transpires.</li>
+    <li> Individuals who willingly mislead an official forum or who inadvertadly mislead a forum and fail to correct the record will be held in contempt.</li>
 
 </ol>
