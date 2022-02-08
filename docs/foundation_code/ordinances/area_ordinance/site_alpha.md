@@ -2,6 +2,7 @@
 sidebar_position: 4
 title: 5 F.C. § 4  Site Alpha
 ---
+<h3 id="FC5.4">5 F.C. § 4  Site Alpha</h3>
 <ol>
 	<li>Site Alpha is the organizations primary unconvential research facility and reactor operations centre in SCI PATHOS III.</li>
 	<li>Site Alphas boundary is defined as;</li>
@@ -62,11 +63,11 @@ title: 5 F.C. § 4  Site Alpha
 			<li>Senior Developers and Above</li>
 		</ol>
 	</ol>
-	<li>Willfully interacting with the Dark Matter Reactors core, to the point where the subject is vaporized, subjects persons to prosecution under 1 F.C. § 17</li>
-	<li>Willfully causing someone to interact with the Dark Matter Reactor core and/or enter the hall without proper protective equipment is subject to prosecution under 1 F.C. § 1</li>
-	<li>Igniting the reactor core while maintenance is ongoing, meaning personnel are present in the reaction hall, is guilty of 1 F.C. § 2, or if no life is lost, 1 F.C. § 21</li>
-	<li>Any individual who, by their own action or negligence, allows the Dark Matter Reactor to have a radiation leak or enter a highly unstable fate which affects the health of living organisms in the installation, is guilty of 1 F.C. § 19, however if no malice is found will be charged with 1 F.C. § 21</li>
-	<li>Any individual who obstructs efforts to maintain or upkeep the dark matter reactor is to be charged with 1 F.C. § 19</li>
-	<li>Any individual who tresspasses in an observation area of Site Alpha without clearance or during an emergency shall be charged under 1 F.C. § 7(a)</li>
-	<li>Any individual who tresspasses in a maintenance area of Site Alpha without clearance shall be charged under 1 F.C. § 7(b)</li>
+	<li>Willfully interacting with the Dark Matter Reactors core, to the point where the subject is vaporized, subjects persons to prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_seventeen">1 F.C. § 17</a></li>
+	<li>Willfully causing someone to interact with the Dark Matter Reactor core and/or enter the hall without proper protective equipment is subject to prosecution under <a href="https://legislation.scpf.io/criminal_articles">1 F.C. § 1</a></li>
+	<li>Igniting the reactor core while maintenance is ongoing, meaning personnel are present in the reaction hall, is guilty of <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_two">1 F.C. § 2</a>, or if no life is lost, <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_twentyone">1 F.C. § 21</a></li>
+	<li>Any individual who, by their own action or negligence, allows the Dark Matter Reactor to have a radiation leak or enter a highly unstable fate which affects the health of living organisms in the installation, is guilty of <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_ninenteen">1 F.C. § 19</a>, however if no malice is found will be charged with <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_twentyone">1 F.C. § 21</a></li>
+	<li>Any individual who obstructs efforts to maintain or upkeep the dark matter reactor is to be charged with <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_ninenteen">1 F.C. § 19</a></li>
+	<li>Any individual who tresspasses in an observation area of Site Alpha without clearance or during an emergency shall be charged under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_seven">1 F.C. § 7(a)</a></li>
+	<li>Any individual who tresspasses in a maintenance area of Site Alpha without clearance shall be charged under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_seven">1 F.C. § 7(b)</a></li>
 </ol>

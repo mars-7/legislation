@@ -3,6 +3,7 @@ sidebar_position: 1
 title: 2 F.C. § 1 - Rights
 ---
 
+<h3 id="FC2.1">2 F.C. § 1 - Rights</h3>
 <ol>
 	<li>An individual has the right to be aware of their rights;</li>
 	<ol style={{'list-style' : 'lower-alpha'}}>
@@ -21,7 +22,7 @@ title: 2 F.C. § 1 - Rights
 	<ol style={{'list-style' : 'lower-alpha'}}>
 		<li>An individual must comply with requests to respond to questions when interviewed in an official forum</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
-			<li>An individual who refuses to respond in this context may be charged with 1 F.C. § 18</li>
+			<li>An individual who refuses to respond in this context may be charged with <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_eighteen">1 F.C. § 18</a></li>
 		</ol>
 	</ol>
 	<li>An individual may not be subject to coercion, fearmongering or intimidation under the pretext of legal proceeding</li>

@@ -3,6 +3,7 @@ sidebar_position: 19
 title: 1 F.C. § 19 - Subversion
 ---
 
+<h3 id="FC1.19">1 F.C. § 19 - Subversion</h3>
 <ol>
 	<li>Subversion is the act of sabotaging core foundation infastructure to cause disruption to Foundation Infastructure</li>
 	<li>Subversion on a small-scale is punishable by Foundation Blacklist and includes;</li>

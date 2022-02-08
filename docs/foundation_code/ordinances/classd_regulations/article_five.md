@@ -3,6 +3,7 @@ sidebar_position: 5
 title: 6 F.C. § 5 - Interaction with an Anomaly
 ---
 
+<h3 id="FC6.5">6 F.C. § 5 - Interaction with an Anomaly</h3>
 <ol>
 	<li>Any Class D in possession of an anomaly in a testing environment is to visibly surrender or consume afformentioned anomaly;</li>
 	<ol style={{'list-style' : 'lower-alpha'}}>

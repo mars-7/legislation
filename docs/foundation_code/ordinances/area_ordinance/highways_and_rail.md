@@ -2,12 +2,13 @@
 sidebar_position: 6
 title: 5 F.C. § 6 - Highways & Rail Lines
 ---
+<h3 id="FC5.6">5 F.C. § 6 - Highways & Rail Lines</h3>
 <ol>
 	<li>Highways and Rail lines are the transport routes connecting sites within PATHOS III together and may also reference structures not incorporated into specific sites</li>
 	<li>Areas classified as non-incorporated highways include;</li>
 	<ol style={{'list-style' : 'lower-alpha'}}>
 		<li>The Access Road connecting the Mobile Task Force Barracks, Site Epsilon, Site Phi, Site Omicron and Site Epsilon</li>
-		<li>The roadways within Site Epsilon are considered an incorporated component of afformentioned site; see 5 F.C. § 3 for specific provisions</li>
+		<li>The roadways within Site Epsilon are considered an incorporated component of afformentioned site; see <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/site_epsilon">5 F.C. § 3</a> for specific provisions</li>
 		<li>The roadway passing through the Entrance Zone is incorporated into afformentioned zone, as listed under 5 F.C. § 5</li>
 		<li>The combative access lane in Site Omicron is incorporated into afformentioned site, as listed under 5 F.C. § 2</li>
 	</ol>
@@ -15,7 +16,7 @@ title: 5 F.C. § 6 - Highways & Rail Lines
 	<ol style={{'list-style' : 'lower-alpha'}}>
 		<li>Any area where the monorail passes over, or is within a 30 stud vicinity of</li>
 	</ol>
-	<li>Areas that are not incorporated and therefore fall under 5 F.C. § 6 include;</li>
+	<li>Areas that are not incorporated and therefore fall under <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/highways_and_rail">5 F.C. § 6</a> include;</li>
 	<ol style={{'list-style' : 'lower-alpha'}}>
 		<li>Mobile Task Forces barracks</li>
 		<li>Site Omicron / Entrance Zone Military Police Checkpoint</li>
@@ -53,6 +54,6 @@ title: 5 F.C. § 6 - Highways & Rail Lines
 		<li>Intelligence Officers</li>
 		<li>Anyone given authorization by the highest ranking MTF online</li>
 	</ol>
-	<li>Tresspassing into the MTF Barracks warrants termination and prosecution under 1 F.C. § 7</li>
-	<li>Tresspassing onto a monorail line warrants prosecution under 1 F.C. § 7</li>
+	<li>Tresspassing into the MTF Barracks warrants termination and prosecution under <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/outlands">1 F.C. § 7</a></li>
+	<li>Tresspassing onto a monorail line warrants prosecution under <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/outlands">1 F.C. § 7</a></li>
 </ol>

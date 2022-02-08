@@ -5,12 +5,13 @@ title: 6 F.C. § 1 - Rights & Definitions
 
 ## Rights
 
+<h3 id="FC6.1">6 F.C. § 1 - Rights & Definitions</h3>
 <ol>
 	<li>Class D, despite being human test subjects, are still members of our community and enjoy personal freedoms and rights to some degree</li>
 	<li>Class D personnel may not be verbally or physically abused with or without provokation and are to be treated in a humane manner</li>
-	<li>Class D personnel may not be held accountable under 1 F.C. articles, with the exception of 1 F.C. § 11, 1 F.C. § 15, 1 F.C. § 16 and 1 F.C. § 19</li>
+	<li>Class D personnel may not be held accountable under 1 F.C. articles, with the exception of <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_eleven">1 F.C. § 11</a>, <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_fifteen">1 F.C. § 15</a>, <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_sixteen">1 F.C. § 16</a> and <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_ninenteen">1 F.C. § 19</a></li>
 	<ol style={{'list-style' : 'lower-alpha'}}>
-		<li>Class D who attempt to bribe an admissions officer may be prosecuted under 1 F.C. § 14</li>
+		<li>Class D who attempt to bribe an admissions officer may be prosecuted under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_fourteen">1 F.C. § 14</a></li>
 	</ol>
 	<li>Class D personnel may not be harrassed or discriminated against due to their role or appearance</li>
 	<ol style={{'list-style' : 'lower-alpha'}}>

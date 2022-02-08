@@ -3,6 +3,7 @@ sidebar_position: 2
 title: 1 F.C. § 2 - Manslaughter
 ---
 
+<h3 id="FC1.2">1 F.C. § 2 - Manslaughter</h3>
 <ol type="1">
 	<li>Manslaughter is the unlawful killing of a person without malice.</li>
 	<li>Manslaughter is of two kinds:</li>

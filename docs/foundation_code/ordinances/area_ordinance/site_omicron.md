@@ -3,6 +3,7 @@ sidebar_position: 2
 title: 5 F.C. § 2 - Site Omicron
 ---
 
+<h3 id="FC5.2">5 F.C. § 2 - Site Omicron</h3>
 <ol type="1">
 	<li>Site Omicron is the Inmate Housing and Activities centre for SCI PATHOS III.</li>
 	<li>Site Omicrons boundary shall be defined as the following areas;</li>
@@ -126,10 +127,10 @@ title: 5 F.C. § 2 - Site Omicron
 		<li>The Visitation Area boundary is defined as the access door in Lower Observation and the access door at the Guardline</li>
 		<li>The Visitation Area is a firearm freezone;</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
-			<li>Failiure to relinquish a firearm to the attending officer subjects personnel to prosecution under 1 F.C. § 13</li>
+			<li>Failiure to relinquish a firearm to the attending officer subjects personnel to prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_thirteen">1 F.C. § 13</a></li>
 			<li>Class D who fail to declare possession of a firearm are subject to termination and one strike</li>
-			<li>Attending Officers who fail to relinquish personnel of their firearms are subject to prosecution under 1 F.C. § 21.</li>
-			<li>If a flaw in game mechanics prevents this from occuring, the individual can not be prosecuted under 5 F.C. § 2(6)(b)(iii)</li>
+			<li>Attending Officers who fail to relinquish personnel of their firearms are subject to prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_twentyone">1 F.C. § 21.</a></li>
+			<li>If a flaw in game mechanics prevents this from occuring, the individual can not be prosecuted under <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/site_omicron">5 F.C. § 2(6)(b)(iii)</a></li>
 			<li>Combatives, Intelligence Officers and Senior Developers or above may bear arms in the Visitation Area</li>
 		</ol>
 		<li>Visitation may only occur on the basis of official business, namely;</li>

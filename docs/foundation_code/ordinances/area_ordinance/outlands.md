@@ -3,6 +3,7 @@ sidebar_position: 7
 title: 5 F.C. § 7 - Outlands
 ---
 
+<h3 id="FC5.7">5 F.C. § 7 - Outlands</h3>
 <ol>
 	<li>Outlands are naturally or anomalously occuring structures, tunnels or temporal plains situated within or accessed from SCI PATHOS III.</li>
 	<li>The following are defined as outlands;</li>
@@ -19,6 +20,6 @@ title: 5 F.C. § 7 - Outlands
 		<li>Mobile Task Forces</li>
 		<li>Scientific Personnel on approved Expeditions</li>
 	</ol>
-	<li>Any individual who enters a terrain tunnel or the hostile forces spawn shall be terminated and charged under 1 F.C. § 7(b)</li>
-	<li>Any individual who willfully enters the SCP-106 pocket dimension shall be charged under 1 F.C. § 17</li>
+	<li>Any individual who enters a terrain tunnel or the hostile forces spawn shall be terminated and charged under <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/outlands">1 F.C. § 7(b)</a></li>
+	<li>Any individual who willfully enters the SCP-106 pocket dimension shall be charged under <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/outlands">1 F.C. § 17</a></li>
 </ol>

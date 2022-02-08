@@ -3,6 +3,7 @@ sidebar_position: 5
 title: 5 F.C. § 5 - Entrance Zone
 ---
 
+<h3 id="FC25.5">5 F.C. § 5 - Entrance Zone</h3>
 <ol>
 	<li>The Entrance Zone is the primary access port to Installation Command and the surface and is therefore a core logistics hub for SCI PATHOS III.</li>
 	<li>The Entrance Zones boundary is defined as;</li>
@@ -47,6 +48,6 @@ title: 5 F.C. § 5 - Entrance Zone
 		</ol>
 		<li>The entrance zone may not be accessed outside of official business during any state of high alert or emergency</li>
 	</ol>
-	<li>The Entrance Zone is the Foundations liasion point for emergency evacuations; obstruction of evacuation efforts results in prosecution under  F.C. § 8 - Malcompliance</li>
-	<li>The terrain tunnels connected to Installation Command are restricted, as listed under 5 F.C. § 3 and 5 F.C. § 7.</li>
+	<li>The Entrance Zone is the Foundations liasion point for emergency evacuations; obstruction of evacuation efforts results in prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_eight">1 F.C. § 8</a> - Malcompliance</li>
+	<li>The terrain tunnels connected to Installation Command are restricted, as listed under <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/site_epsilon">5 F.C. § 3</a> and <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/outlands">5 F.C. § 7</a>.</li>
 </ol>

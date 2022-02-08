@@ -3,6 +3,7 @@ sidebar_position: 4
 title: 6 F.C. § 4 - Malcompliance
 ---
 
+<h3 id="FC6.4">6 F.C. § 4 - Malcompliance</h3>
 <ol>
 	<li>Malcompliance is the act of resisting or opposing any reasonable order given to Class D by a proper authority or marking</li>
 	<li>Malcompliance will always warrant termination and may result in a strike under specific circumstances</li>

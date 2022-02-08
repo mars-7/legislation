@@ -3,6 +3,7 @@ sidebar_position: 1
 title: 5 F.C. § 1 - Site Phi
 ---
 
+<h3 id="FC5.1">5 F.C. § 1 - Site Phi</h3>
 <ol type="1">
 	<li>Site Phi is the Foundations Civil Operations Centre within Secure Containment Installation PATHOS III.</li>
 	<li>Site Phi's boundary shall be defined by the following areas;</li>
@@ -109,14 +110,14 @@ title: 5 F.C. § 1 - Site Phi
 			<li>Command Staff & Councillors</li>
 			<li>Senior Developers and above</li>
 		</ol>
-		<li>Failiure to relinquish ones firearm at the security checkpoint when ordered to declare by the attending security forces or quick reaction force member shall warrant prosecution under <code>1 F.C. § 13</code></li>
+		<li>Failiure to relinquish ones firearm at the security checkpoint when ordered to declare by the attending security forces or quick reaction force member shall warrant prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_thirteen">1 F.C. § 13</a></li>
 		<ol style={{'list-style' : 'lower-roman'}}>
 			<li>Class D who fail to relinquish any firearm shall be terminated and issued a strike.</li>
 		</ol>
-		<li>It is the duty of the attending individual at the security point to relieve non-permitted individuals of their firearms and failure to do so shall leave them susceptble to prosecution under <code>1 F.C. § 21</code>.</li>
+		<li>It is the duty of the attending individual at the security point to relieve non-permitted individuals of their firearms and failure to do so shall leave them susceptble to prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_twentyone">1 F.C. § 21</a>.</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
-			<li>If a flaw in game mechanics prevents this from occuring, the individual can not be prosecuted under <code>5 F.C. § 1(5)(c)</code></li>
+			<li>If a flaw in game mechanics prevents this from occuring, the individual can not be prosecuted under <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/site_phi">5 F.C. § 1(5)(c)</a></li>
 		</ol>
 	</ol>
-	<li>Access may never be impeded to the Breach Shelter and willfully or intentionally doing so shall leave persons susceptible to charge under <code>1 F.C. § 7</code></li>
+	<li>Access may never be impeded to the Breach Shelter and willfully or intentionally doing so shall leave persons susceptible to charge under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_seven">1 F.C. § 7</a></li>
 </ol>

@@ -3,6 +3,7 @@ sidebar_position: 11
 title: 1 F.C. § 11 - Impersonation
 ---
 
+<h3 id="FC1.11">1 F.C. § 11 - Impersonation</h3>
 <ol>
 	<li>Impersonation is an act of pretending to be another person for the purpose of entertainment or fraud.</li>
 	<li>Impersonation is split into three categories:</li>

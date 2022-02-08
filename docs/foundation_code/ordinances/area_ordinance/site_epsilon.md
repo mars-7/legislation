@@ -3,6 +3,7 @@ sidebar_position: 3
 title: 5 F.C. § 3 - Site Epsilon
 ---
 
+<h3 id="FC5.3">5 F.C. § 3 - Site Epsilon</h3>
 <ol type="1">
 	<li>Site Epsilon is the organizations primary entity containment facility within SCI PATHOS III.</li>
 	<li>Site Epsilons boundary is defined as;</li>
@@ -51,11 +52,11 @@ title: 5 F.C. § 3 - Site Epsilon
 			<li>Persons allowed to retain firearms for an approved test hypothesis.</li>
 		</ol>
 		<li>It is the duty of the attending security escort to relinquish persons of firearms, or face punishment under <code>1 F.C. § 21</code></li>
-		<li>An individual can not be charged under <code>5 F.C. § 3(5)(b)</code> if a game mechanic stunts their capacity to do so</li>
-		<li>An individual with security clearance who fails to declare a firearm at a security station is subject to termination and prosecution under <code>1 F.C. § 13</code></li>
+		<li>An individual can not be charged under <a href="https://legislation.scpf.io/foundation_code/ordinances/area_ordinance/site_epsilon">5 F.C. § 3(5)(b)</a> if a game mechanic stunts their capacity to do so</li>
+		<li>An individual with security clearance who fails to declare a firearm at a security station is subject to termination and prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_thirteen">1 F.C. § 13</a></li>
 		<li>An Class D who fails to declare a firearm at a security station is subject to termination and marking for confinement</li>
 	</ol>
-	<li>Any individual who tresspasses within Site Epsilon may be terminated and prosecuted under <code>1 F.C.§ 6</code></li>
-	<li>Any individual who enters a containment zone without authorization may be terminated and prosecuted under <code>1 F.C. § 7(c)</code></li>
-	<li>Any individual who loiters in the immediate vicinity of Site Epsilon and who fails to disperse after a clear verbal warning may be charged under <code>1 F.C. § 8</code></li>
+	<li>Any individual who tresspasses within Site Epsilon may be terminated and prosecuted under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_six">1 F.C.§ 6</a></li>
+	<li>Any individual who enters a containment zone without authorization may be terminated and prosecuted under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_seven">1 F.C. § 7(c)</a></li>
+	<li>Any individual who loiters in the immediate vicinity of Site Epsilon and who fails to disperse after a clear verbal warning may be charged under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_eight">1 F.C. § 8</a></li>
 </ol>

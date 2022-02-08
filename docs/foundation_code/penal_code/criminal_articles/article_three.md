@@ -3,6 +3,7 @@ sidebar_position: 3
 title: 1 F.C. § 3 - Assault
 ---
 
+<h3 id="FC1.3">1 F.C. § 3 - Assault</h3>
 <ol type="1">
 	<li>An assault is any act by which a person intentionally or recklessly causes another to suffer or apprehend unlawful violence.</li>
 	<li>Assault is categorised and defined into the following categories:</li>

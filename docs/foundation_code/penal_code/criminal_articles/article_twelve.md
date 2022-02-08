@@ -3,6 +3,7 @@ sidebar_position: 12
 title: 1 F.C. § 12 - Conspiracy & Solicitation
 ---
 
+<h3 id="FC1.12">1 F.C. § 12 - Conspiracy & Solicitation</h3>
 <ol>
 	<li>Conspiracy is defined as an act of planning by a person or persons to commit a crime.</li>
 	<ol style={{'list-style' : 'lower-alpha'}}>

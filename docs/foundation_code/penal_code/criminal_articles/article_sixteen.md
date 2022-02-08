@@ -3,8 +3,9 @@ sidebar_position: 16
 title: 1 F.C. § 16 - Unauthorized dissemenation of sensitive materials
 ---
 
+<h3 id="FC1.16">1 F.C. § 16 - Unauthorized dissemenation of sensitive materials</h3>
 <ol>
-	<li>Any individual who knowingly dissemenates a classified material is gulty of 1 F.C. § 16;</li>
+	<li>Any individual who knowingly dissemenates a classified material is gulty of <a href="#FC1.16">1 F.C. § 16</a>;</li>
 	<ol style={{'list-style' : 'lower-alpha'}}>
 		<li>Intentionally breaching information will warrant the following;</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
