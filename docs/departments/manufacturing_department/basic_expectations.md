@@ -18,15 +18,15 @@ When communicating with the community, you should remain respectful regardless o
 
 The Nolt is the primary way that we gather feedback externally. You should refer people to the Nolt for bug reports and feature requests rather than taking them personally. You should *not* promise features, bug fixes, or time estimates of in progress work to users unless you have cleared it through the **Technical Installation Director** or above.
 
-:::caution Inappropriate Behaviour
-The community places its trust in MaD to deliver features fairly and based on needs, not on personal views or vendettas. The following are examples of inappropriate behaviour:
+:::caution Inappropriate Behavior
+The community places its trust in MaD to deliver features fairly and based on needs, not on personal views or vendettas. The following are examples of inappropriate behavior:
 
 - Threatening to de-prioritise or stop work on a bug fix, feature or other work in public because of a disagreement with community members
 - Voicing abusive / highly negative opinions of anyone, including other developers publicly or in official Manufacturing Department channels
 - Threatening community members with retribution of any kind (particularly through use of MaD perks) or using perks to disrupt site activities
 - Engaging in heated, prolonged arguments in public channels with community members
 
-This kind of behaviour, depending on circumstance, history and severity will warrant either suspension or immediate termination.
+This kind of behavior, depending on circumstance, history and severity will warrant either suspension or immediate termination.
 :::
 
 ## Development Secrecy
@@ -44,12 +44,12 @@ Examples of **inappropriate** disclosures are:
 - Disclosing any information you know (or should know) is confidential;
 - Disclosing screenshots, videos or recordings of work without permission;
 - Disclosing sensitive keys, credentials or information;
-- Disclosing any information that you have been provided as part of your duties in MaD in confidence (i.e. departmental guidelines, etc);
+- Disclosing any information that you have been provided as part of your duties in MaD in confidence (i.e. departmental guidelines, etc.);
 - Revealing the internal workings of SCPs, or what SCPs are being worked on;
 - Disclosing anything that would be detrimental to game security
 
 :::info IP Rights
-Once developers give assets to the Manufacturing Department, as long as they recieve the agreed compensation for those assets (this can be no compensation, if agreed in advance to be so - although we typically pay for any development work) that work is irrevocably provided to the group unless otherwise agreed on beforehand by the Manufacturing Department Overseer.
+Once developers give assets to the Manufacturing Department, as long as they receive the agreed compensation for those assets (this can be no compensation, if agreed in advance to be so - although we typically pay for any development work) that work is irrevocably provided to the group unless otherwise agreed on beforehand by the Manufacturing Department Overseer.
 
 It is recommended that you agree prices for work with your project manager *before* beginning it / sending it so that we can agree on a mutually acceptable price in a productive manner.
 :::
