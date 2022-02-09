@@ -19,6 +19,8 @@ export const Highlight = ({children, color}) => (
 
 The Administrator & MaD Overseer are responsible for the oversight of the Manufacturing Department.
 
+**This position is considered to be apart of MaD Oversight.**
+
 <Highlight color="#000000">O5 Council</Highlight>
 
 O5 Councilors do not hold any special clearance within the Manufacturing Department, however they have the ability to supervise projects as well as request for certain things to be developed and/or removed, as long as a proper vote has been processed.
@@ -27,22 +29,34 @@ O5 Councilors do not hold any special clearance within the Manufacturing Departm
 
 The Technical Installation Director is responsible for the leadership of the Manufacturing Department; serving as a center point for all development projects and fields, to assure it's apparatus, statistics, and stability.
 
-<Highlight color="#f9c149">Coordination Team</Highlight>
+**This position is considered to be apart of MaD Oversight.**
 
-The Coordination Team is responsible for assisting the Administrator, Overseer and Technical Installation Director in the management of the Manufacturing Department.
+<Highlight color="#f9c149">Manufacturing Secretary</Highlight>
+
+Manufacturing Secretaries are responsible for assisting the Administrator, Overseer and Technical Installation Director in the management of the Manufacturing Department.
+
+**This position is considered to be apart of MaD Command.**
 
 <Highlight color="#2b75a7">Senior Developer</Highlight>
 
 Senior Developers are personnel who have worked in the Manufacturing Department for a long period of time, they usually have worked on multiple medium to large scale projects. They will often receive the most work and are the most trusted with projects.
 
+**This position is considered to be apart of MaD Command.**
+
 <Highlight color="#493a2a">Developer</Highlight>
 
 Developers are the core members of the department who are trusted with assignments and are often given small or medium projects.
+
+**This position is considered to be apart of Development Staff.**
 
 <Highlight color="#726457">Probationary Developer</Highlight>
 
 Probationary Developers are newer members of the department. All development staff hold this position when they first enter the department.
 
+**This position is considered to be apart of Development Staff.**
+
 <Highlight color="#9f5bb2">QA Tester</Highlight>
 
 Quality Assurance Testers are responsible for testing new updates prior to their release. They are not development staff.
+
+**This position is considered to be apart of Quality Assurance.**
