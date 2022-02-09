@@ -20,7 +20,7 @@ title: 5 F.C. § 4  Site Alpha
 		<li>The Engineering Entrance, accessed by motor vehicles, can only be used by;</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
 			<li>Engineers</li>
-			<li>Manufacturing Department (Refer to [MaD Guidelines](https://legislation.scpf.io/departments/manufacturing_department/priveleges) for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Mobile Task Forces</li>
 			<li>Intelligence Officers</li>
 			<li>Security Class 4s and Installation Directors</li>
@@ -32,7 +32,7 @@ title: 5 F.C. § 4  Site Alpha
 			<li>Mobile Task Forces</li>
 			<li>Intelligence Staff</li>
 			<li>Quality Assuraance Testers</li>
-			<li>Manufacturing Department (Refer to [MaD Guidelines](https://legislation.scpf.io/departments/manufacturing_department/priveleges) for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Touring Diplomats</li>
 		</ol>
 		<li>Personnel who enter via the monorail may go no further than;</li>
@@ -48,19 +48,19 @@ title: 5 F.C. § 4  Site Alpha
 			<li>Scientific Personnel with special authorization from Reactor Operations Command to observe</li>
 			<li>Approved Guests acting on Official Business by Councillors or Reactor Operations Command</li>
 			<li>Intelligence Officers on Official Business</li>
-			<li>Manufacturing Department (Refer to [MaD Guidelines](https://legislation.scpf.io/departments/manufacturing_department/priveleges) for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 		</ol>
 		<li>No more than 8 people may be in the Reactor Operations Centre at any given time</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
 			<li>Councillors do not count to this limit</li>
 			<li>Guests do not count to this limit</li>
-			<li>Manufacturing Department (Refer to [MaD Guidelines](https://legislation.scpf.io/departments/manufacturing_department/priveleges) for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 		</ol>
 		<li>The Reactor Hall is restricted to;</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
 			<li>Engineers</li>
 			<li>Crimson9 Operatives</li>
-			<li>Manufacturing Department (Refer to [MaD Guidelines](https://legislation.scpf.io/departments/manufacturing_department/priveleges) for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 		</ol>
 	</ol>
 	<li>Willfully interacting with the Dark Matter Reactors core, to the point where the subject is vaporized, subjects persons to prosecution under <a href="https://legislation.scpf.io/foundation_code/penal_code/criminal_articles/article_seventeen">1 F.C. § 17</a></li>

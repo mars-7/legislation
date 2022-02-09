@@ -25,14 +25,14 @@ title: 5 F.C. § 3 - Site Epsilon
 		<ol style={{'list-style' : 'lower-roman'}}>
 			<li>Command Staff</li>
 			<li>Quality Assurance Testers</li>
-			<li>Manufacturing Department (Refer to [MaD Guidelines](https://legislation.scpf.io/departments/manufacturing_department/priveleges) for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Intelligence Officers</li>
 			<li>Mobile Task Forces</li>
 			<li>Personnel accompanying or performing an authorized event</li>
 		</ol>
 		<li>The containment zones are accessible to;</li>
 		<ol style={{'list-style' : 'lower-roman'}}>
-			<li>Manufacturing Department (Refer to [MaD Guidelines](https://legislation.scpf.io/departments/manufacturing_department/priveleges) for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Mobile Task Forces</li>
 			<li>Intelligence Officers</li>
 			<li>Personnel accompanying or performing an authorized event</li>
@@ -46,7 +46,7 @@ title: 5 F.C. § 3 - Site Epsilon
 		<ol style={{'list-style' : 'lower-roman'}}>
 			<li>Mobile Task Forces</li>
 			<li>Authorized Security Escorts</li>
-			<li>Manufacturing Department (Refer to [MaD Guidelines](https://legislation.scpf.io/departments/manufacturing_department/priveleges) for specifics)</li>
+			<li>Manufacturing Department (Refer to <a href="https://legislation.scpf.io/departments/manufacturing_department/priveleges">MaD Guidelines</a> for specifics)</li>
 			<li>Intelligence Officers</li>
 			<li>Command Staff</li>
 			<li>Persons allowed to retain firearms for an approved test hypothesis.</li>
