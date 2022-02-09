@@ -31,9 +31,9 @@ As a Quality Assurance Tester, oftentimes bugs that were overlooked within the P
 
 Due to prevention and protection already failing within this scenario, the following step will be mitigation. As such, a set of steps will be illustrated below to describe the process of bug reports and tests. Upon observing a bug, or having an existing bug be provided to you, you are to follow said steps in a timely manner, without deviating or diverging from the given instructions.
 
-1. Your first and foremost step in the procedure should be to log the bug in the respective bug channel within the MaD Communications server. Make sure to follow proper format, to provide developers with an easier time. 
+1. Your first and foremost step in the procedure should be to log the bug in the respective [Issue Tracker](https://github.com/Manufacturing-Department/issue-tracker) within the MaD Communications server. Make sure to follow proper format, to provide developers with an easier time. 
 
-2. Before it gets logged for developers to address, oftentimes, the QA Coordinator, or any other developer, will group up one or two additional QA Testers. If it is a department issue, then QA Testers of the department concerned in this situation, will be notified.
+2. Before it gets logged for developers to address, oftentimes, a Manufacturing Secretary, or any other developer, will group up one or two additional QA Testers. If it is a department issue, then QA Testers of the department concerned in this situation, will be notified.
 
 3. The bug will then be tested, to discover any possible causes, effects, and resolutions. As an example, if SCP-1200-29’s effect damage exists after death caused by SCP-009, one could experiment if this bug is triggered by any damaging anomaly, or any sort of damage in general. While this occurs, make sure to often check the Developer Console `(F9)` for any errors that appear.
 
