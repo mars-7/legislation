@@ -43,14 +43,14 @@ title: 5 F.C. § 6 - Highways & Rail Lines
 		<li>Security Response Unit</li>
 		<li>Intelligence Officers</li>
 		<li>Engineers on Repairs or Inspections</li>
-		<li>Developers & Quality Assurance Testers</li>
+		<li>Manufacturing Department (Refer to [MaD Guidelines](https://legislation.scpf.io/departments/manufacturing_department/priveleges) for specifics)</li>
 	</ol>
 	<li>The Mobile Task Forces barracks are restricted as follows;</li>
 	<ol style={{'list-style' : 'lower-alpha'}}>
 		<li>Mobile Task Forces</li>
 		<li>Security Department Central Command</li>
 		<li>Installation Director and Above</li>
-		<li>Senior Developers and Above</li>
+		<li>Manufacturing Department (Refer to [MaD Guidelines](https://legislation.scpf.io/departments/manufacturing_department/priveleges) for specifics)</li>
 		<li>Intelligence Officers</li>
 		<li>Anyone given authorization by the highest ranking MTF online</li>
 	</ol>

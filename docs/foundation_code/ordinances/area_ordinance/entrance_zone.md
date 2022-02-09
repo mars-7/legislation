@@ -34,7 +34,7 @@ title: 5 F.C. § 5 - Entrance Zone
 			<li>Diplomatic Staff</li>
 			<li>Intelligence Staff</li>
 			<li>Administrative Department Members</li>
-			<li>Developers & Quality Assurance Testers</li>
+			<li>Manufacturing Department (Refer to [MaD Guidelines](https://legislation.scpf.io/departments/manufacturing_department/priveleges) for specifics)</li>
 			<li>Judiciary Authority</li>
 		</ol>
 		<li>The logistics department spawn may only be accessed by;</li>
@@ -44,7 +44,7 @@ title: 5 F.C. § 5 - Entrance Zone
 			<li>Engineers</li>
 			<li>Logisticians</li>
 			<li>Intelligence Officers</li>
-			<li>Developers & Quality Assurance Testers</li>
+			<li>Manufacturing Department (Refer to [MaD Guidelines](https://legislation.scpf.io/departments/manufacturing_department/priveleges) for specifics)</li>
 		</ol>
 		<li>The entrance zone may not be accessed outside of official business during any state of high alert or emergency</li>
 	</ol>
