@@ -15,7 +15,8 @@ As outlined in the universal privileges Manufacturing Personnel are permitted to
 - Clothing must not contain any particles.
 - Clothing must be appropriate for a PG-13 audiences.
 - Clothing must not be insulting or toxic in any manner.
-- If the Ethics Committee deems Development Staffs clothing to not be in line with the above guidelines they may request staff change their clothing, to which Manufacturing Personnel **must** comply.
+- If a Senior Developer deems Manufacturing Personnel clothing to not be in line with the above guidelines they may request staff change their clothing, to which Manufacturing Personnel **must** comply.
+- If the Ethics Committee deems Manufacturing Personnel clothing to not be in line with the above guidelines they may request staff change their clothing, to which Manufacturing Personnel **must** comply.
 :::info
 If Manufacturing Personnel feel as though their clothing is inline with the above policies they are still to comply with Ethics Committee and may raise their concerns with the Technical Installation Director afterward.
 :::
