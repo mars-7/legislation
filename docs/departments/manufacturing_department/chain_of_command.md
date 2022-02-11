@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Chain of Command
+title: Manufacturing Structure
 ---
 
 export const Highlight = ({children, color}) => (
@@ -14,6 +14,8 @@ export const Highlight = ({children, color}) => (
     {children}
   </span>
 );
+
+Laid out below is the basic structure of the Manufacturing Department in which is laid out in its main components. Within each of these components lies its own Chain of Command, which is located in its respective set of guidelines.
 
 <Highlight color="#000000">The Administrator/MaD Overseer</Highlight>
 
@@ -29,34 +31,20 @@ O5 Councilors do not hold any special clearance within the Manufacturing Departm
 
 The Technical Installation Director is responsible for the leadership of the Manufacturing Department; serving as a center point for all development projects and fields, to assure it's apparatus, statistics, and stability.
 
-**This position is considered to be apart of MaD Oversight.**
+<Highlight color="#493a2a">Development Staff</Highlight>
+
+Development Staff consist of individuals who are apart of a Development team and actively work on Manufacturing Projects. Development Staff are the core component of the Manufacturing Department and as such are ran by Manufacturing Oversight and Senior Developers.
 
 <Highlight color="#f9c149">Manufacturing Secretary</Highlight>
 
-Manufacturing Secretaries are responsible for assisting the Administrator, Overseer and Technical Installation Director in the management of the Manufacturing Department.
+Manufacturing Secretaries are **Civil Staff** who work closely with Manufacturing Oversight and aid in the coordination of Quality Assurance. 
 
-**This position is considered to be apart of MaD Command.**
+:::note
+Manufacturing Secretaries as stated are **Civil Staff** as such hold no direct role within the Core Component of the Manufacturing Department nor any Command Authority, and rather reside under the Office of the Technical Installation Director.
 
-<Highlight color="#2b75a7">Senior Developer</Highlight>
+However Manufacturing Secretaries when requested may act as the voice of the Technical Installation Director.
+:::
 
-Senior Developers are personnel who have worked in the Manufacturing Department for a long period of time, they usually have worked on multiple medium to large scale projects. They will often receive the most work and are the most trusted with projects.
+<Highlight color="#9f5bb2">Quality Assurance</Highlight>
 
-**This position is considered to be apart of MaD Command.**
-
-<Highlight color="#493a2a">Developer</Highlight>
-
-Developers are the core members of the department who are trusted with assignments and are often given small or medium projects.
-
-**This position is considered to be apart of Development Staff.**
-
-<Highlight color="#726457">Probationary Developer</Highlight>
-
-Probationary Developers are newer members of the department. All development staff hold this position when they first enter the department.
-
-**This position is considered to be apart of Development Staff.**
-
-<Highlight color="#9f5bb2">QA Tester</Highlight>
-
-Quality Assurance Testers are responsible for testing new updates prior to their release. They are not development staff.
-
-**This position is considered to be apart of Quality Assurance.**
+Quality Assurance are individuals who have been invited to play-test and seek out bugs for ongoing projects. Quality Assurance is considered an external sub-department of the Manufacturing Department which is ran by Manufacturing Oversight and Manufacturing Secretaries. 

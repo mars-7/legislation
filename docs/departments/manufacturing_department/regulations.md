@@ -1,6 +1,6 @@
 ---
-sidebar_position: 3
-title: Basic Expectations
+sidebar_position: 4
+title: Universal Regulations
 ---
 
 All members of the Manufacturing Department are expected to follow the following regulations. Failure to do so will result in **disciplinary action** from the Manufacturing Department Oversight.
@@ -9,6 +9,16 @@ All members of the Manufacturing Department are expected to follow the following
 - You are not exempt from any of the regulations listed in the Supreme Guidelines unless **specifically mentioned** in this document;
 - You are to portray the same professionalism and maturity while on the Manufacturing Department team as you would on Foundation Personnel, or a department team if the situation warrants maturity;
 - You are not to interfere in any on-site operations unless it is **strictly necessary** to do so **and** you have been given permission by the *Technical Installation Director* or above.
+
+### Dress Code
+As outlined in the universal privileges Manufacturing Personnel are permitted to wear their Character Clothes but must abide by the following regulations.
+- Clothing must not contain any particles.
+- Clothing must be appropriate for a PG-13 audiences.
+- Clothing must not be insulting or toxic in any manner.
+- If the Ethics Committee deems Development Staffs clothing to not be in line with the above guidelines they may request staff change their clothing, to which Manufacturing Personnel **must** comply.
+:::info
+If Manufacturing Personnel feel as though their clothing is inline with the above policies they are still to comply with Ethics Committee and may raise their concerns with the Technical Installation Director afterward.
+:::
 
 ## Communications with the Community
 
