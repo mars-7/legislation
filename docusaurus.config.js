@@ -70,6 +70,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           {
             type: 'doc',
+            docId: 'foundation_code/intro',
+            position: 'left',
+            label: 'Foundation Legal Code',
+          },
+          {
+            type: 'doc',
             docId: 'departments/intro',
             position: 'left',
             label: 'Departmental Guidelines',
@@ -77,9 +83,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {to: 'blog', label: 'Blog', position: 'left'},
           /* {
             type: 'doc',
-            docId: 'criminal_code/intro',
+            docId: 'foundation_code/intro',
             position: 'left',
-            label: 'Criminal Code',
+            label: 'Foundation Code',
           }, */
           {
             href: 'https://www.roblox.com/groups/4606577',
