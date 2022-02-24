@@ -5,7 +5,7 @@ title: Punishment System
 
 The Punishment System is in place to punish those who break any regulations set while in the department.
 
-:::note
+:::warning
 Punishments depend on severity. If you break a Class-C rule, but it’s incredibly severe, you may be given much severe punishment.
 :::
 
